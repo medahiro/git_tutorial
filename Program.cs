@@ -12,7 +12,9 @@ namespace work
                 sum += i + 1;
             }
             
+            Console.WriteLine("Hello!");
             Console.WriteLine(sum);
+            
         }
     }
 }
