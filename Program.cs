@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace work
 {
@@ -15,6 +15,7 @@ namespace work
             Console.WriteLine("Hello!");
             Console.WriteLine(sum);
             Console.WriteLine("commmit new-branch-2");
+            Console.WriteLine("3");
         }
     }
 }
