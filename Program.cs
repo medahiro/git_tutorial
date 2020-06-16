@@ -16,6 +16,9 @@ namespace work
             Console.WriteLine(sum);
             Console.WriteLine("commmit new-branch-2");
             Console.WriteLine("3");
+            
+            Console.WriteLine("add from github");
+            
         }
     }
 }
